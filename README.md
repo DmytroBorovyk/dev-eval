@@ -21,3 +21,5 @@ Wait until docker build.
 ## to open php container
 run `docker exec -it dev-eval-php bash`
 
+## API documentation
+To get API documentation use "Dev Eval.postman_collection.json" file
