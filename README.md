@@ -21,6 +21,9 @@ Wait until docker build.
 ## to open php container
 run `docker exec -it dev-eval-php bash`
 
+## to run tests inside container
+- run inside container `./vendor/bin/phpunit`
+
 ## Frontend part
 - run `npm install`
 - run `npm run dev`
